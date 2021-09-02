@@ -72,7 +72,6 @@ function main() {
   }
 }
 
-
 /*
   Call main to run it.
 */
